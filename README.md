@@ -14,3 +14,8 @@
 > **<u>N</u>OTE**
 > 
 > **The game is still under development**
+
+
+> # Actual In-Game Experience
+
+[![In-Game Demo](https://img.youtube.com/vi/R5Et07nQa-Y/0.jpg)](https://www.youtube.com/watch?v=R5Et07nQa-Y)
