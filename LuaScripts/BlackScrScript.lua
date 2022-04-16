@@ -1,5 +1,3 @@
--- // This Script is the BlackScreen during process 'This isn't finished'
-
 local CustomBtn = script.Parent
 local InstallationFrame = script.Parent.Parent.Parent
 local ProgressFrame = script.Parent.Parent.Parent.Parent.ProgressInstall
@@ -95,4 +93,8 @@ CustomBtn.MouseButton1Click : Connect (function ()
 	BlackLabel.Text = "Just a moment..."
 	
 	wait (25)
+	
+	Foreground.BackgroundColor3 = Color3.fromRGB (255, 255, 255)
+	
+	
 end)
