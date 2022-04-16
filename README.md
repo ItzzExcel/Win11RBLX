@@ -9,7 +9,7 @@
 
 > ***Roblox Game***
 
-> [The Win 11 Installation Experience {Not Finished}](https://www.roblox.com/games/9361336027/)
+> [The Windows 11 Installation Experience {Not Finished}](https://www.roblox.com/games/9361336027/)
 > 
 > **<u>N</u>OTE**
 > 
