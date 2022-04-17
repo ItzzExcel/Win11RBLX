@@ -4,6 +4,7 @@
 > ***Contribute*** 
 
 > If you want to contribute try Tweeting me at [@ItzzzExcel](https://twitter.com/ItzzzExcel)
+> Or at the [Issues](https://github.com/ItzzExcel/Win11RBLX/issues) page in this repo **B)**
 > 
 > If I consider the Contribute useful I'll contact you and add it to the game
 
