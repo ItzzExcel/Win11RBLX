@@ -2,4 +2,4 @@
 
 > ***Information !*** 
 
-> Look at the Wiki page for documentation!
+> Look at the <a href="https://github.com/ItzzExcel/Win11RBLX/wiki">wiki</a> page for documentation!
