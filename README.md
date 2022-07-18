@@ -1,4 +1,4 @@
-### The Windows 11 Installation Experience
+### The Windows 11 Experience
 
 > ***Information !*** 
 
